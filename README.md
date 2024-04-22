@@ -12,17 +12,17 @@ This project focuses on analyzing New York City Motor Vehicle Collisions (MVC) d
 **Roles:**
 Responsible for Data Cleaning and Exploration, Star-schema Design and Implementation and SQL Table Creation and Query Writing for Analysis.
 
-**Team Size:** 4
+**Team Size:** 7
 
 **Project Workflow:**
 * Data Acquisition
-  ** Download the dataset using the wget command.
-  ** Rename and preprocess the dataset.
+  * Download the dataset using the wget command.
+  * ename and preprocess the dataset.
 * Data Wrangling & Cleaning 
-  ** Create a fact table named "Crashes" and import all data.
-  ** Select and clean columns to streamline the dataset.
-  ** Handle null values in crucial columns.
-  ** Design a star schema with a fact table and four dimensional tables: Geography, Contributing factor, Vehicle type, and Crash time.
+  * Create a fact table named "Crashes" and import all data.
+  * Select and clean columns to streamline the dataset.
+  * Handle null values in crucial columns.
+  * Design a star schema with a fact table and four dimensional tables: Geography, Contributing factor, Vehicle type, and Crash time.
 * Data Exploration & Analysis
   ** Analysis 1 (Car Insurance)
     *** Identify top 10 vehicle types with the most crashes.
