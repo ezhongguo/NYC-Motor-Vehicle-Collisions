@@ -23,7 +23,7 @@ Responsible for Data Cleaning and Exploration, Star-schema Design and Implementa
   * Select and clean columns to streamline the dataset.
   * Handle null values in crucial columns.
   * Design a star schema with a fact table and four dimensional tables: Geography, Contributing factor, Vehicle type, and Crash time.
-  * ![Picture1](https://github.com/ezhongguo/NYC-Motor-Vehicle-Collisions/assets/138747553/3da934b4-348b-4a14-9dec-8161e0f36d59)
+  ![Picture1](https://github.com/ezhongguo/NYC-Motor-Vehicle-Collisions/assets/138747553/3da934b4-348b-4a14-9dec-8161e0f36d59)
 * Data Exploration & Analysis
   * Analysis 1 (Car Insurance)
     * Identify top 10 vehicle types with the most crashes.
