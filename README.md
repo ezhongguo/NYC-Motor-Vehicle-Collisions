@@ -17,7 +17,7 @@ Responsible for Data Cleaning and Exploration, Star-schema Design and Implementa
 **Project Workflow:**
 * Data Acquisition
   * Download the dataset using the wget command.
-  * rename and preprocess the dataset.
+  * Rename and preprocess the dataset.
 * Data Wrangling & Cleaning 
   * Create a fact table named "Crashes" and import all data.
   * Select and clean columns to streamline the dataset.
